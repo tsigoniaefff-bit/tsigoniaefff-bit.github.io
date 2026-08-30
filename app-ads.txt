@@ -1,4 +1,4 @@
-smartclip.net, 15458, RESELLER
+ smartclip.net, 15458, RESELLER
 pubmatic.com, 166078, RESELLER, 5d62403b186f2ace
 instreamatic.com, 118, RESELLER
 rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
