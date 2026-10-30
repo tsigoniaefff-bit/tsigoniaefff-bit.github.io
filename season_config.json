@@ -3,4 +3,22 @@
   "seasonName": "Season 2: Nightmare",
   "leaderboardId": "CgkI0cX_1bYVEAIQDQ",
   "endDate": "2026-10-31T23:59:59Z"
+  "top1SkinTitle": "Rare Skin",
+  "top1SkinIDs" : [
+    "ak_lava",
+    "benneli_lava",
+    "hk416_lava",
+    "m4_lava",
+    "m107_lava",
+    "m249_lava"
+  ],
+  "top5SkinTitle": "Common Skin",
+  "top5SkinIDs": [
+    "ak_whiteCamo",
+    "benneli_whitecamo",
+    "hk416_whitecamo",
+    "m4_whitecamo",
+    "m107_whitecamo",
+    "m249_whitecamo"
+  ]  
 }
