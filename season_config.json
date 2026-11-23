@@ -2,9 +2,9 @@
   "seasonId": 3,
   "seasonName": "Season 3: Apocalypse",
   "leaderboardId": "CgkI0cX_1bYVEAIQGA",
-  "endDate": "2027-01-31T23:59:59Z"
+  "endDate": "2027-01-31T23:59:59Z",
   "top1SkinTitle": "Rare Skin",
-  "top1SkinIDs" : [
+  "top1SkinIDs": [
     "ak_lava",
     "benneli_lava",
     "hk416_lava",
@@ -20,5 +20,5 @@
     "m4_whitecamo",
     "m107_whitecamo",
     "m249_whitecamo"
-  ]  
+  ]
 }
